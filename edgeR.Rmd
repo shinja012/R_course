@@ -1,0 +1,13 @@
+---
+title: "R Course - edgeR: part I"
+author: "Jay W. Shin"
+date: "February 17, 2016"
+output: html_document
+---
+
+The part I of this edgeR lesson focuses on the pair-wise comparison between two time points. 
+The data is availble from <http://fantom.gsc.riken.jp/5/tet>. 
+
+* __Dataset__
+* _Human Phase 1 and 2_
+    + Expression (read counts) of ruboust phase 1 and 2 CAGE peaks fro human samples with annotation
